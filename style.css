@@ -1,0 +1,16 @@
+body {
+  padding-top: 20px;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
+
+h2, p {
+  text-align: center;
+}
+
+.p {
+  margin-top: 140px;
+}
